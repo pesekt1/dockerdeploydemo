@@ -1,4 +1,4 @@
-name: Container Workflow
+name: Build docker image to ACR and deploy with AKS
 on:
   workflow_dispatch:
 
